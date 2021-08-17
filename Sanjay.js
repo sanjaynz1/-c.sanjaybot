@@ -1,6 +1,7 @@
 // bot.js
 // node.app
 // ================
+Invite Bot: https://discord.com/oauth2/authorize?client_id=783543194251952189&permissions=1133584&scope=bot
 
 //import
 const { RichEmbed, Client, Attachment } = require("discord.js");
